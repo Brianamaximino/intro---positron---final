@@ -16,6 +16,12 @@ execute:
 editor: visual
 ---
 
+## Live Website Version
+
+This reflection is also available as a live webpage:  
+[Click here to view the published site](https://brianamaximino.github.io/intro---positron---final/intro-positron.html)
+
+
 # Essay Prompts
 
 ## 1. **Download and Install Positron.**
